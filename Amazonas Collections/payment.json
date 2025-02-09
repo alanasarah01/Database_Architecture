@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67a7b27e69fffd67d2faee42"
+  },
+  "payment_id": "65d1f1c7a9b0bde5e8f5b401",
+  "order_id": "65d1f1c7a9b0bde5e8f5b201",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b001",
+  "amount": 199.9,
+  "method": "Cartão de Crédito",
+  "status": "Aprovado"
+},
+{
+  "_id": {
+    "$oid": "67a7b27e69fffd67d2faee43"
+  },
+  "payment_id": "65d1f1c7a9b0bde5e8f5b402",
+  "order_id": "65d1f1c7a9b0bde5e8f5b202",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b002",
+  "amount": 349.99,
+  "method": "Boleto Bancário",
+  "status": "Pendente"
+}]

@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "67a7b18969fffd67d2faee15"
+  },
+  "address_id": "65d1f1c7a9b0bde5e8f5b101",
+  "costumer_id": "65d1f1c7a9b0bde5e8f5b001",
+  "address_tag": "Casa",
+  "street": "Rua das Flores",
+  "number": "123",
+  "city": "São Paulo",
+  "state": "SP",
+  "zip_code": "01000-000"
+},
+{
+  "_id": {
+    "$oid": "67a7b18969fffd67d2faee16"
+  },
+  "address_id": "65d1f1c7a9b0bde5e8f5b102",
+  "costumer_id": "65d1f1c7a9b0bde5e8f5b002",
+  "address_tag": "Trabalho",
+  "street": "Avenida Paulista",
+  "number": "456",
+  "city": "São Paulo",
+  "state": "SP",
+  "zip_code": "01310-000"
+},
+{
+  "_id": {
+    "$oid": "67a7b18969fffd67d2faee17"
+  },
+  "address_id": "65d1f1c7a9b0bde5e8f5b103",
+  "costumer_id": "65d1f1c7a9b0bde5e8f5b003",
+  "address_tag": "Casa",
+  "street": "Rua das Palmeiras",
+  "number": "789",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "zip_code": "20000-000"
+},
+{
+  "_id": {
+    "$oid": "67a7b18969fffd67d2faee18"
+  },
+  "address_id": "65d1f1c7a9b0bde5e8f5b104",
+  "costumer_id": "65d1f1c7a9b0bde5e8f5b004",
+  "address_tag": "Apartamento",
+  "street": "Avenida Atlântica",
+  "number": "321",
+  "city": "Florianópolis",
+  "state": "SC",
+  "zip_code": "88000-000"
+},
+{
+  "_id": {
+    "$oid": "67a7b18969fffd67d2faee19"
+  },
+  "address_id": "65d1f1c7a9b0bde5e8f5b105",
+  "costumer_id": "65d1f1c7a9b0bde5e8f5b005",
+  "address_tag": "Casa",
+  "street": "Rua do Sol",
+  "number": "55",
+  "city": "Belo Horizonte",
+  "state": "MG",
+  "zip_code": "30100-000"
+},
+{
+  "_id": {
+    "$oid": "67a7b18969fffd67d2faee1a"
+  },
+  "address_id": "65d1f1c7a9b0bde5e8f5b106",
+  "costumer_id": "65d1f1c7a9b0bde5e8f5b006",
+  "address_tag": "Escritório",
+  "street": "Rua Augusta",
+  "number": "777",
+  "city": "São Paulo",
+  "state": "SP",
+  "zip_code": "01400-000"
+},
+{
+  "_id": {
+    "$oid": "67a7b18969fffd67d2faee1b"
+  },
+  "address_id": "65d1f1c7a9b0bde5e8f5b107",
+  "costumer_id": "65d1f1c7a9b0bde5e8f5b007",
+  "address_tag": "Residência",
+  "street": "Rua das Laranjeiras",
+  "number": "99",
+  "city": "Curitiba",
+  "state": "PR",
+  "zip_code": "80000-000"
+},
+{
+  "_id": {
+    "$oid": "67a7b18969fffd67d2faee1c"
+  },
+  "address_id": "65d1f1c7a9b0bde5e8f5b108",
+  "costumer_id": "65d1f1c7a9b0bde5e8f5b008",
+  "address_tag": "Casa",
+  "street": "Avenida Brasil",
+  "number": "1000",
+  "city": "Porto Alegre",
+  "state": "RS",
+  "zip_code": "90000-000"
+},
+{
+  "_id": {
+    "$oid": "67a7b18969fffd67d2faee1d"
+  },
+  "address_id": "65d1f1c7a9b0bde5e8f5b109",
+  "costumer_id": "65d1f1c7a9b0bde5e8f5b009",
+  "address_tag": "Trabalho",
+  "street": "Rua 7 de Setembro",
+  "number": "303",
+  "city": "Recife",
+  "state": "PE",
+  "zip_code": "50000-000"
+},
+{
+  "_id": {
+    "$oid": "67a7b18969fffd67d2faee1e"
+  },
+  "address_id": "65d1f1c7a9b0bde5e8f5b110",
+  "costumer_id": "65d1f1c7a9b0bde5e8f5b010",
+  "address_tag": "Apartamento",
+  "street": "Rua dos Ipês",
+  "number": "202",
+  "city": "Brasília",
+  "state": "DF",
+  "zip_code": "70000-000"
+}]

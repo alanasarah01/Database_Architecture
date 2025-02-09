@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "67a7b13469fffd67d2faee07"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b001",
+  "name": "Alice Johnson",
+  "email": "alice.johnson@example.com",
+  "phone": "+55 11 98765-4321",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b101"
+  ],
+  "document": "123.456.789-00"
+},
+{
+  "_id": {
+    "$oid": "67a7b14069fffd67d2faee09"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b001",
+  "name": "Alice Johnson",
+  "email": "alice.johnson@example.com",
+  "phone": "+55 11 98765-4321",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b101"
+  ],
+  "document": "123.456.789-00"
+},
+{
+  "_id": {
+    "$oid": "67a7b14069fffd67d2faee0a"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b002",
+  "name": "Bob Smith",
+  "email": "bob.smith@example.com",
+  "phone": "+55 21 96543-2100",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b102"
+  ],
+  "document": "987.654.321-00"
+},
+{
+  "_id": {
+    "$oid": "67a7b14069fffd67d2faee0b"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b003",
+  "name": "Charlie Brown",
+  "email": "charlie.brown@example.com",
+  "phone": "+55 31 91234-5678",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b103"
+  ],
+  "document": "456.789.123-00"
+},
+{
+  "_id": {
+    "$oid": "67a7b14069fffd67d2faee0c"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b004",
+  "name": "Diana Prince",
+  "email": "diana.prince@example.com",
+  "phone": "+55 41 97865-4321",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b104"
+  ],
+  "document": "321.654.987-00"
+},
+{
+  "_id": {
+    "$oid": "67a7b14069fffd67d2faee0d"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b005",
+  "name": "Ethan Hunt",
+  "email": "ethan.hunt@example.com",
+  "phone": "+55 51 99876-5432",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b105"
+  ],
+  "document": "789.123.456-00"
+},
+{
+  "_id": {
+    "$oid": "67a7b14069fffd67d2faee0e"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b006",
+  "name": "Fiona Gallagher",
+  "email": "fiona.gallagher@example.com",
+  "phone": "+55 61 95678-1234",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b106"
+  ],
+  "document": "159.753.486-00"
+},
+{
+  "_id": {
+    "$oid": "67a7b14069fffd67d2faee0f"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b007",
+  "name": "George Costanza",
+  "email": "george.costanza@example.com",
+  "phone": "+55 71 98765-9876",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b107"
+  ],
+  "document": "357.159.258-00"
+},
+{
+  "_id": {
+    "$oid": "67a7b14069fffd67d2faee10"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b008",
+  "name": "Hannah Montana",
+  "email": "hannah.montana@example.com",
+  "phone": "+55 81 92345-6789",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b108"
+  ],
+  "document": "951.753.852-00"
+},
+{
+  "_id": {
+    "$oid": "67a7b14069fffd67d2faee11"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b009",
+  "name": "Ian Malcolm",
+  "email": "ian.malcolm@example.com",
+  "phone": "+55 91 93210-4567",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b109"
+  ],
+  "document": "654.321.987-00"
+},
+{
+  "_id": {
+    "$oid": "67a7b14069fffd67d2faee12"
+  },
+  "customer_id": "65d1f1c7a9b0bde5e8f5b010",
+  "name": "Jessica Jones",
+  "email": "jessica.jones@example.com",
+  "phone": "+55 99 97812-3456",
+  "address": [
+    "65d1f1c7a9b0bde5e8f5b110"
+  ],
+  "document": "852.741.963-00"
+}]

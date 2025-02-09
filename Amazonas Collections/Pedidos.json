@@ -1,0 +1,14 @@
+{
+    "oder_id": "2adaa71cba44a1e4ab6149f3",
+    "customer_id": "ec750b9cdc3483bbc408cf5f",
+    "date": "2016-04-08T15:06:21.595Z",
+    "total_price": 77,
+    "status": "Lorem",
+    "items": [
+        "cdbfae9dba565a212cdd49d5",
+        -76,
+        7
+    ],
+    "payment_id": "fccac53d00fdc8bfcfa8ca81",
+    "delivery_id": "d36c7e3fb5cc9aad28de0c6d"
+}

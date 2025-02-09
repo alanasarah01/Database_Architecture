@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67a7b28669fffd67d2faee46"
+  },
+  "product_id": "65d1f1c7a9b0bde5e8f5b301",
+  "name": "Fone de Ouvido Bluetooth",
+  "description": "Fone sem fio com cancelamento de ruído",
+  "price": 99.9,
+  "category": "Eletrônicos",
+  "estoque": 150,
+  "reviews": "65d1f1c7a9b0bde5e8f5b601"
+},
+{
+  "_id": {
+    "$oid": "67a7b28669fffd67d2faee47"
+  },
+  "product_id": "65d1f1c7a9b0bde5e8f5b302",
+  "name": "Smartphone XYZ",
+  "description": "Smartphone com câmera de 64MP e bateria de longa duração",
+  "price": 349.99,
+  "category": "Celulares",
+  "estoque": 50,
+  "reviews": "65d1f1c7a9b0bde5e8f5b602"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67a7b28f69fffd67d2faee4a"
+  },
+  "review_id": "65d1f1c7a9b0bde5e8f5b601",
+  "product_id": "65d1f1c7a9b0bde5e8f5b301",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b001",
+  "rating": 5,
+  "commet": "Ótimo produto, qualidade excelente!",
+  "date": "2025-02-07T14:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "67a7b28f69fffd67d2faee4b"
+  },
+  "review_id": "65d1f1c7a9b0bde5e8f5b602",
+  "product_id": "65d1f1c7a9b0bde5e8f5b302",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b002",
+  "rating": 4,
+  "commet": "Bom custo-benefício, mas a câmera poderia ser melhor.",
+  "date": "2025-02-06T11:20:00Z"
+}]

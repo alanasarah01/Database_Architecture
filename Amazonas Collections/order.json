@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "67a7b27269fffd67d2faee3e"
+  },
+  "oder_id": "65d1f1c7a9b0bde5e8f5b201",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b001",
+  "date": "2025-02-08T10:00:00Z",
+  "total_price": 199.9,
+  "status": "Processando",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b301",
+      2,
+      49.95
+    ]
+  ],
+  "payment_id": "65d1f1c7a9b0bde5e8f5b401",
+  "delivery_id": "65d1f1c7a9b0bde5e8f5b501"
+},
+{
+  "_id": {
+    "$oid": "67a7b27269fffd67d2faee3f"
+  },
+  "oder_id": "65d1f1c7a9b0bde5e8f5b202",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b002",
+  "date": "2025-02-07T15:30:00Z",
+  "total_price": 349.99,
+  "status": "Enviado",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b302",
+      1,
+      349.99
+    ]
+  ],
+  "payment_id": "65d1f1c7a9b0bde5e8f5b402",
+  "delivery_id": "65d1f1c7a9b0bde5e8f5b502"
+}]

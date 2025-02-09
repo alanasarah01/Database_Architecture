@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "67a7b1d969fffd67d2faee26"
+  },
+  "cart_id": "65d1f1c7a9b0bde5e8f5b701",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b001",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b301",
+      2
+    ],
+    [
+      "65d1f1c7a9b0bde5e8f5b302",
+      1
+    ]
+  ],
+  "updated_at": "2025-02-08T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "67a7b1d969fffd67d2faee27"
+  },
+  "cart_id": "65d1f1c7a9b0bde5e8f5b702",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b002",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b303",
+      3
+    ]
+  ],
+  "updated_at": "2025-02-07T18:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "67a7b1d969fffd67d2faee28"
+  },
+  "cart_id": "65d1f1c7a9b0bde5e8f5b703",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b003",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b304",
+      1
+    ],
+    [
+      "65d1f1c7a9b0bde5e8f5b305",
+      2
+    ]
+  ],
+  "updated_at": "2025-02-06T14:45:00Z"
+},
+{
+  "_id": {
+    "$oid": "67a7b1d969fffd67d2faee29"
+  },
+  "cart_id": "65d1f1c7a9b0bde5e8f5b704",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b004",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b306",
+      1
+    ]
+  ],
+  "updated_at": "2025-02-05T11:20:00Z"
+},
+{
+  "_id": {
+    "$oid": "67a7b1d969fffd67d2faee2a"
+  },
+  "cart_id": "65d1f1c7a9b0bde5e8f5b705",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b005",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b307",
+      5
+    ],
+    [
+      "65d1f1c7a9b0bde5e8f5b308",
+      2
+    ]
+  ],
+  "updated_at": "2025-02-04T16:10:00Z"
+},
+{
+  "_id": {
+    "$oid": "67a7b1d969fffd67d2faee2b"
+  },
+  "cart_id": "65d1f1c7a9b0bde5e8f5b706",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b006",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b309",
+      3
+    ]
+  ],
+  "updated_at": "2025-02-03T08:50:00Z"
+},
+{
+  "_id": {
+    "$oid": "67a7b1d969fffd67d2faee2c"
+  },
+  "cart_id": "65d1f1c7a9b0bde5e8f5b707",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b007",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b310",
+      2
+    ],
+    [
+      "65d1f1c7a9b0bde5e8f5b311",
+      1
+    ]
+  ],
+  "updated_at": "2025-02-02T22:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "67a7b1d969fffd67d2faee2d"
+  },
+  "cart_id": "65d1f1c7a9b0bde5e8f5b708",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b008",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b312",
+      4
+    ]
+  ],
+  "updated_at": "2025-02-01T12:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "67a7b1d969fffd67d2faee2e"
+  },
+  "cart_id": "65d1f1c7a9b0bde5e8f5b709",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b009",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b313",
+      1
+    ],
+    [
+      "65d1f1c7a9b0bde5e8f5b314",
+      3
+    ]
+  ],
+  "updated_at": "2025-01-31T20:05:00Z"
+},
+{
+  "_id": {
+    "$oid": "67a7b1d969fffd67d2faee2f"
+  },
+  "cart_id": "65d1f1c7a9b0bde5e8f5b710",
+  "customer_id": "65d1f1c7a9b0bde5e8f5b010",
+  "items": [
+    [
+      "65d1f1c7a9b0bde5e8f5b315",
+      2
+    ]
+  ],
+  "updated_at": "2025-01-30T17:45:00Z"
+}]
